@@ -1,5 +1,5 @@
 <img 
-     src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FEbDl&psig=AOvVaw09QVPf12rdDgyl-x25Lcai&ust=1686817535601000&source=images&cd=vfe&ved=0CBIQjhxqFwoTCKiKkpSrwv8CFQAAAAAdAAAAABBi" 
+     src="https://i.gifer.com/EbDl.gif" 
      width= "400px"
      align= "right"
      >
