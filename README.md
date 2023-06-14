@@ -1,4 +1,8 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FEbDl&psig=AOvVaw09QVPf12rdDgyl-x25Lcai&ust=1686817535601000&source=images&cd=vfe&ved=0CBIQjhxqFwoTCKiKkpSrwv8CFQAAAAAdAAAAABBi
+<img 
+     srv="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FEbDl&psig=AOvVaw09QVPf12rdDgyl-x25Lcai&ust=1686817535601000&source=images&cd=vfe&ved=0CBIQjhxqFwoTCKiKkpSrwv8CFQAAAAAdAAAAABBi" 
+     width= "400px"
+     align= "right"
+     >
 
 # 💫 About Me:
 🔭 I’m currently working on FunctionUp As a React Developer Trainee<br>👯 I’m looking to collaborate on ReactJs FrontEnd Project. Reachout my website https://shivamraj-portfolio.netlify.app<br>🤝 I’m looking for help with good career opportunity.<br>🌱 I’m currently learning PHP , MSQL .<br>💬 Ask me about React , JS , CSS, HTML<br>
