@@ -1,6 +1,6 @@
 <img 
      src="https://i.gifer.com/EbDl.gif" 
-     width= "400px"
+     width= "400"
      align= "right"
      >
 
