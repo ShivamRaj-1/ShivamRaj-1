@@ -1,6 +1,7 @@
 <img 
      src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" 
      width= "400"
+     height = "400"
      align= "right"
      >
      
