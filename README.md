@@ -1,5 +1,5 @@
 <img 
-     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtIsEckFk_lTLzfIn34z8PnAFLDzdEXba5OQ&usqp=CAU" 
+     src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aagnia.com%2Fservices%2Fdigital-services%2Fmobile-app-development%2F&psig=AOvVaw09QVPf12rdDgyl-x25Lcai&ust=1686817535601000&source=images&cd=vfe&ved=0CBEQjRxqGAoTCKiKkpSrwv8CFQAAAAAdAAAAABCiAQ" 
      width= "400"
      align= "right"
      >
